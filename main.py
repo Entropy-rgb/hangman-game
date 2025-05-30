@@ -60,7 +60,7 @@ HANGMAN_PICS = ['''
 
 # ==========================================
 # ''')
-
+# print(HANGMAN_PICS[0] + '\n\n\n')
 # print(lenghtOfWord*'_ ')
 
 # guess = input('What\'s Your Guess : ')
